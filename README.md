@@ -6,6 +6,6 @@ Tom Brady in 2024 noted the decreased quality of play of quarterbacks especially
 
 But are the games actually worse? Are players performing worse than in the past?
 
-In this project I will examine game scores and player performances to create benchmarks to measure against. I have data available from 1999, so I can find averages and benchmark from there. 
+In this project I will examine game scores and player performances to create benchmarks to measure against with data from 1999 onwards.
 
-One possible end state is to haev a program that will compare the data from the most recent week of NFL play against an average to determine whether the week was a "good" week.
+One possible end state is a program that will compare the data from the most recent week of NFL play against an average to determine whether the week was a "good" week.
